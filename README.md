@@ -1,0 +1,2 @@
+# cw-adminer
+adminer script
